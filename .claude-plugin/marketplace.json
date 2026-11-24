@@ -1,0 +1,11 @@
+{
+  "name": "jin8-tools",
+  "owner": { "name": "jin8-lab" },
+  "plugins": [
+    {
+      "name": "image-gen",
+      "source": "./plugins/image-gen",
+      "description": "Google Gemini の画像生成 API で画像を作り、プロジェクトに保存する"
+    }
+  ]
+}
